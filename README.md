@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yoavsemoshamir
-- 👀 I’m interested in java scwript front-end dev
+- 👀 I’m interested in java script front-end dev
 - 🌱 I’m currently learning java script
 - 📫 How to reach me semoyoav@gmail.com
 
